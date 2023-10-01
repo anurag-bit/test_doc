@@ -7,7 +7,7 @@
 > [!WARNING]
 > The roadmap and resources are under maintainence, the compose build system and toolset has  reached a canonically stable adoption.
 > for example: The new Chat-GPT App uses Relay and jetpack compose extensively 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](../jetpackCompose/examples.png)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](../examples.png)
 
 
 # Introduction to Android Skill Track/Roadmap Update
@@ -24,7 +24,6 @@ graph TD;
     Android-->XML-layout;
     Android-->Compose;
     Android-->One Conslidated File;
-   
 ```
 ### Why Compose?
 The modern Android Developemnt, brings a lot of features and Developer experience improvements, features such as composable funtions, reuasble UI componenets, State-recomposition. It also brings performance to table as for competitive development in competitions, native will be more practical in terms of 
