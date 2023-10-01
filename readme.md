@@ -23,6 +23,10 @@ Hello everyone! Welcome to the exciting journey of enhancing your Android develo
 graph TD;
     Android-->XML-layout;
     Android-->Compose;
+    XML-layout-->Activity.kt;
+    XML-layout-->Activity.xml;
+    Compose-->One_file;
+    
 ```
 ### Why Compose?
 The modern Android Developemnt, brings a lot of features and Developer experience improvements, features such as composable funtions, reuasble UI componenets, State-recomposition. It also brings performance to table as for competitive development in competitions, native will be more practical in terms of 
