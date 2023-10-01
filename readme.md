@@ -7,9 +7,9 @@
 > [!WARNING]
 > The roadmap and resources are under maintainence, the compose build system and toolset has  reached a canonically stable adoption.
 > for example: The new Chat-GPT App uses Relay and jetpack compose extensively 
+
+
 ![Compose apps](https://res.cloudinary.com/anurag256k/image/upload/v1696176825/examples_mjohfb.png)
-
-
 # Introduction to Android Skill Track/Roadmap Update
 
 ### 1. Greeting and Introduction
