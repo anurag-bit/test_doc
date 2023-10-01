@@ -19,9 +19,10 @@ Hello everyone! Welcome to the exciting journey of enhancing your Android develo
 
 ```mermaid
 graph TD;
-    Android-->B;
-    Android-->C;
-   
+    Android-->XML-layout;
+    Android-->Compose;
+    XML-layout-->Activity.kt;
+    XML-layout-->Activity.xml;
     
 ```
 
