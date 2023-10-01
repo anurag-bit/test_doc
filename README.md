@@ -19,7 +19,7 @@ Hello everyone! Welcome to the exciting journey of enhancing your Android develo
 
 ```mermaid
 graph TD;
-    A-->B;
+    Android-->B;
     A-->C;
     B-->D;
     C-->D;
